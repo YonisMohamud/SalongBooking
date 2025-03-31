@@ -1,4 +1,4 @@
-# ✂️ **SalonBook - Bokningssystem för Frisörsalonger** 💇‍♀️💈
+# ✂️ **SalongBooking - Bokningssystem för Frisörsalonger** 💇‍♀️💈
 
 ## **1. Projektidé**
 
