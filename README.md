@@ -3,7 +3,7 @@
 ## **1. Projektidé**
 
 ### **📌 Scenario**
-SalonBook är ett bokningssystem för frisörsalonger där kunder kan boka, ändra och avboka tider online. Systemet hanterar även frisörernas scheman och skickar påminnelser 📅 till kunder för att minimera uteblivna besök.
+SalongBooking är ett bokningssystem för frisörsalonger där kunder kan boka, ändra och avboka tider online. Systemet hanterar även frisörernas scheman och skickar påminnelser 📅 till kunder för att minimera uteblivna besök.
 
 ### **🎯 Bakgrund och syfte**
 Många frisörsalonger hanterar fortfarande bokningar manuellt, vilket kan leda till dubbelbokningar och ineffektiv administration. Syftet med systemet är att förenkla bokningsprocessen, minimera administration och förbättra kundupplevelsen genom en smidig digital lösning. 💻
